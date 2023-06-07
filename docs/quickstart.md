@@ -29,15 +29,15 @@ Running nodes:
 
 ## Wallet Setup For Using Shardeum
 
-You will need an EVM wallet like Metamask to:
+You will need an EVM wallet like Metamask or Arcana Wallet to:
 
       -pay for transaction gas fees
       -transfer tokens
       -interact with smart contracts
 
-For more info on Metamask:
+For more info on Metamask, see [Metamask Introduction](/wallets/MetaMask/introduction).
 
-[Metamask Introduction](/wallets/MetaMask/introduction)
+See [Arcana Wallet User Guide](https://docs.arcana.network/user-guides/wallet-ui/index.html) and developers guide to learn how to integrate Web3 apps with the [Arcana Auth SDK](https://docs.arcana.network/auth-quick-start.html) and enable the Arcana Wallet for authenticated users.
 
 ## Fund Your Wallet With SHM On Shardeum
 

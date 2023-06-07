@@ -10,6 +10,12 @@ A safe and simple way to access blockchain applications and web3. Trusted by mil
 
 https://metamask.io/
 
+## Arcana Wallet
+
+[Arcana wallet](https://docs.arcana.network/user-guides/wallet-ui/index.html) is an embedded, non-custodial Web3 wallet that is available instantly once a user authenticates with a Web3 app that is integrated with the [Arcana Auth SDK](https://docs.arcana.network/auth-quick-start.html). Users don't need to download any browser extension to use the wallet. Simply log into the app and use the wallet to sign blockchain transactions, interact with the smart contracts, send, view NFTs or perform Web3 wallet operations.
+
+https://arcana.network
+
 ## OKX
 
 OKX Wallet is a non-custodial decentralized multi-chain wallet that supports EVM chains as well as non-EVM chains. 
