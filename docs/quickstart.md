@@ -29,7 +29,7 @@ Running nodes:
 
 ## Wallet Setup For Using Shardeum
 
-You will need an EVM wallet like Metamask or Arcana Wallet to:
+You will need an EVM wallet like Metamask or use [Social Login](/wallets/social-login/introduction) to:
 
       -pay for transaction gas fees
       -transfer tokens
@@ -37,7 +37,7 @@ You will need an EVM wallet like Metamask or Arcana Wallet to:
 
 For more info on Metamask, see [Metamask Introduction](/wallets/MetaMask/introduction).
 
-See [Arcana Wallet User Guide](https://docs.arcana.network/user-guides/wallet-ui/index.html) and developers guide to learn how to integrate Web3 apps with the [Arcana Auth SDK](https://docs.arcana.network/auth-quick-start.html) and enable the Arcana Wallet for authenticated users.
+>> **Social Login** allows users to onboard Web3 apps using popular Web2 authentication mechanisms and instantly, securely access an embedded, non-custodial Web3 wallet from within the context of a Web3 app. The user is **not required** to install a browser extension or generate and manage private keys to sign blockchain transactions. To enable the social login feature, Web3 app developers need to integrate the app with the Arcana Auth SDK. [Learn more...](/wallets/social-login/introduction)
 
 ## Fund Your Wallet With SHM On Shardeum
 
