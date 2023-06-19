@@ -6,7 +6,7 @@ slug: /social-login-send-shm
 
 # Send SHM
 
-Web3 apps that are [integrated with the Arcana Auth product](./enable-social-login) can allow users to easily onboard via [social login](./introduction#using-social-login) like the Web2 apps. Once onboard, the authenticated users can instantly access [the built-in, embedded, non-custodial Arcana Wallet UI](./builtin-arcana-wallet) and initiate blockchain transactions to send SHM or respond to the app request for sending SHM and sign blockchain transactions.
+Web3 apps that are [integrated with the Arcana Auth product](social-login-enable) can allow users to easily onboard via [social login](social-login-intro) like the Web2 apps. Once onboard, the authenticated users can instantly access [the built-in, embedded, non-custodial Arcana Wallet UI](social-login-access-wallet) and initiate blockchain transactions to send SHM or respond to the app request for sending SHM and sign blockchain transactions.
 
 A send SHM transaction can either be initiated by a Web3 app user through the wallet UI or it can be initiated through the app logic, programmatically by the developer.
 
